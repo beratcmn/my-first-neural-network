@@ -1,0 +1,1 @@
+# This is my first Neural Network tutorial. I will try to follow Sebastian Lague in order to understand Neural Networks.
